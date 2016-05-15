@@ -1,0 +1,9 @@
+c:\users\kuba\documents\visual studio 2012\Projects\TombRaider.ReportGenerator\TombRaider.ReportGenerator\bin\Debug\TombRaider.ReportGenerator.exe.config
+c:\users\kuba\documents\visual studio 2012\Projects\TombRaider.ReportGenerator\TombRaider.ReportGenerator\bin\Debug\TombRaider.ReportGenerator.exe
+c:\users\kuba\documents\visual studio 2012\Projects\TombRaider.ReportGenerator\TombRaider.ReportGenerator\bin\Debug\TombRaider.ReportGenerator.pdb
+c:\users\kuba\documents\visual studio 2012\Projects\TombRaider.ReportGenerator\TombRaider.ReportGenerator\obj\Debug\TombRaider.ReportGenerator.csprojResolveAssemblyReference.cache
+c:\users\kuba\documents\visual studio 2012\Projects\TombRaider.ReportGenerator\TombRaider.ReportGenerator\obj\Debug\TombRaider.ReportGenerator.exe
+c:\users\kuba\documents\visual studio 2012\Projects\TombRaider.ReportGenerator\TombRaider.ReportGenerator\obj\Debug\TombRaider.ReportGenerator.pdb
+C:\Users\Kuba\Desktop\studia_informatyka\2_semestr\ISI\TombRaider.ReportGenerator\TombRaider.ReportGenerator\bin\Debug\TombRaider.ReportGenerator.exe.config
+C:\Users\Kuba\Desktop\studia_informatyka\2_semestr\ISI\TombRaider.ReportGenerator\TombRaider.ReportGenerator\obj\Debug\TombRaider.ReportGenerator.exe
+C:\Users\Kuba\Desktop\studia_informatyka\2_semestr\ISI\TombRaider.ReportGenerator\TombRaider.ReportGenerator\obj\Debug\TombRaider.ReportGenerator.pdb
